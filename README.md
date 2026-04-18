@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there! I'm Saurabh, a Final Year B.Tech Data Science student.<br>🚀 Turning data into intelligent solutions as an Aspiring Data Scientist & AI Developer<br>🧠 Hands-on with Machine Learning, NLP, and real-world AI projects<br>⚙️ Strong foundation in Python, SQL, and backend development (Flask)<br>🌱 Lifelong learner focused on building impactful, scalable tech solutions
+Hi there! I'm Sejal, a Final Year B.Tech Information Technology student.<br>🚀 Turning data into intelligent solutions as an Aspiring Data Scientist & AI Developer<br>🧠 Hands-on with Machine Learning, NLP, and real-world AI projects<br>⚙️ Strong foundation in Python, SQL, and backend development (Flask)<br>🌱 Lifelong learner focused on building impactful, scalable tech solutions
 
 
 ## 🌐 Socials:
